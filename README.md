@@ -173,6 +173,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## Author
 
 Fayaz-y
+Email Id : y.mohamedfayaz@gmail.com
 
 ## Acknowledgments
 
